@@ -18,7 +18,7 @@
 
 ## 数据集说明
 
-本项目采用 [DeepXDE 官方 antiderivative_unaligned 数据集](https://paddle-org.bj.bcebos.com/paddlescience/datasets/DeepONet/)，分为训练集和测试集，文件格式如下：
+本项目采用 [DeepXDE 官方 antiderivative_unaligned 数据集]([https://paddle-org.bj.bcebos.com/paddlescience/datasets/DeepONet/](https://yaleedu-my.sharepoint.com/personal/lu_lu_yale_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Flu%5Flu%5Fyale%5Fedu%2FDocuments%2Fdatasets%2Fdeepxde%2Fdeeponet%5Fantiderivative%5Funaligned))，分为训练集和测试集，文件格式如下：
 
 - **antiderivative_unaligned_train.npz**
   - `X_train0`：u 的训练输入数据，形状 (10000, 100)
@@ -72,6 +72,12 @@ python eval.py
 ![Function 0 Result](result_figures/func_1_result.png)
 ![Function 0 Result](result_figures/func_2_result.png)
 ![Function 0 Result](result_figures/func_3_result.png)
+![Function 0 Result](result_figures/func_4_result.png)
+![Function 0 Result](result_figures/func_5_result.png)
+![Function 0 Result](result_figures/func_6_result.png)
+![Function 0 Result](result_figures/func_7_result.png)
+![Function 0 Result](result_figures/func_8_result.png)
+![Function 0 Result](result_figures/func_9_result.png)
 
 你可以在 `figures/visual/` 文件夹中找到所有测试过的函数可视化结果。
 
