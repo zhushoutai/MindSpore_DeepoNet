@@ -68,17 +68,10 @@ python eval.py
 
 下面是部分测试可视化结果：
 
-#### 🎯 函数 1：$u=\cos(x),\quad G(u)=\sin(x)$
 
-![Function 0 Result](figures/visual/func_0_result.png)
-
-#### 🎯 函数 2：$u=3x^2,\quad G(u)=x^3$
-
-![Function 4 Result](figures/visual/func_4_result.png)
-
-#### 🎯 函数 3：$u=e^x,\quad G(u)=e^x-1$
-
-![Function 8 Result](figures/visual/func_8_result.png)
+![Function 0 Result](result_figures/func_1_result.png)
+![Function 0 Result](result_figures/func_2_result.png)
+![Function 0 Result](result_figures/func_3_result.png)
 
 你可以在 `figures/visual/` 文件夹中找到所有测试过的函数可视化结果。
 
