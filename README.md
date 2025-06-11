@@ -79,7 +79,7 @@ python eval.py
 ![Function 0 Result](result_figures/func_8_result.png)
 ![Function 0 Result](result_figures/func_9_result.png)
 
-你可以在 `figures/visual/` 文件夹中找到所有测试过的函数可视化结果。
+你可以在 `figures` 文件夹中找到所有测试过的函数可视化结果。
 
 ## 致谢
 本项目来源于北航AI学习框架与科学计算课程，在此感谢授课的两位老师以及华为提供的计算资源～
